@@ -4,10 +4,12 @@
     <div class="counter-controls">
       <button
         type="button"
-        @click="increment">+</button>
+        @click="increment"
+      >+</button>
       <button
         type="button"
-        @click="decrement">-</button>
+        @click="decrement"
+      >-</button>
     </div>
   </div>
 </template>
